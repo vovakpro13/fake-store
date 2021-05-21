@@ -1,0 +1,19 @@
+.product{
+    max-width: 600px;
+    flex-basis: 26%;
+    padding: 15px;
+    border-radius: 50px;
+    background: #ffffff;
+    box-shadow:  20px 20px 60px rgba(190, 190, 190, 0.55),
+    -20px -20px 60px #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.product img{
+    width: 40%;
+    margin: 10px;
+}
